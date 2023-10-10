@@ -1,0 +1,11 @@
+input{
+    font-size: 35px;
+    background-color: coral;
+    color: blanchedalmond;
+    line-height: 70px;
+}
+label{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 70px;
+}

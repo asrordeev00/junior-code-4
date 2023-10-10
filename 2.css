@@ -1,0 +1,19 @@
+.login{
+    font-size: 60px;
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+label{
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.gender{
+    font-size: 60px;
+}
+input{
+    font-size:30px;
+     background-color: orange;
+}
+.sss{
+    font-size: 60px;
+}
