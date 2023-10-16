@@ -1,13 +1,8 @@
-.container{
-    color: white;
-    text-decoration: underline;
-    
-    
-}
-.UFS{
+.UFS, .container{
     color: white;
     text-decoration: underline;
 }
+
 .MOUSE{
     color: white;
     text-decoration: underline;
@@ -17,4 +12,17 @@
 }
 a{
     color: red;
+}
+li, ol{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#BOX{
+    color: red;
+    text-decoration: underline;
 }
